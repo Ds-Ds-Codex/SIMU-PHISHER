@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://trackdown-3jp0.onrender.com";
+var hostURL="https://simu-phisher.onrender.com";
 //TOGGLE for Shorters
 var use1pt=false;
 
