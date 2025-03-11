@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://simuphisher-p56f89y2r-dx-hacking108s-projects.vercel.app";
+var hostURL="https://simuphisher-k7p2qsqb3-dx-hacking108s-projects.vercel.app";
 //TOGGLE for Shorters
 var use1pt=false;
 
